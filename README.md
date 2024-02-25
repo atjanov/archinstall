@@ -1,3 +1,7 @@
+# Оригинальный скрипт установки: https://gitlab.com/stephan-raabe/archinstall
+
+Данный репозитарий всего лишь носит корректировку файла 2-configuration.sh для личного пользования.
+
 # Arch Install Script with btrfs for Timeshift or snapper
 
 This is a bash based Arch Linux installation script with EFI boot loader and btrfs partition prepared for Timeshift or snapper.
